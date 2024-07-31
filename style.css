@@ -32,7 +32,7 @@ body{
     justify-items: center;
     align-items: center;
     max-width: 375px;
-    padding: 15px 35px;
+    padding: 15px 33px;
     margin: 10px;
     background-color: var(--grey-800);
     border-radius: 10px;
@@ -42,7 +42,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 15px;
+    margin-top: 10px;
 }
 .profile-pic{
     display: block;
@@ -53,7 +53,7 @@ body{
 }
 .name{
     color: var(--white);
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     font-weight: 700;
     margin-top: 15px;
 }
@@ -65,7 +65,7 @@ body{
 }
 .bio{
     color: var(--white);
-    font-size: 0.80rem;
+    font-size: 0.85rem;
     font-weight: 400;
     margin-top: 20px;
 }
